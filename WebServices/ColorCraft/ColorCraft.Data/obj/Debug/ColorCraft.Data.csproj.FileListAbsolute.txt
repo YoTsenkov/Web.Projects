@@ -1,0 +1,12 @@
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\ColorCraft.Data.dll.config
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\ColorCraft.Data.dll
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\ColorCraft.Data.pdb
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\ColorCraft.Models.dll
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\ColorCraft.Models.pdb
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\obj\Debug\ColorCraft.Data.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\obj\Debug\ColorCraft.Data.dll
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Data\obj\Debug\ColorCraft.Data.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Models\bin\Debug\ColorCraft.Models.dll
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Models\bin\Debug\ColorCraft.Models.pdb
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Models\obj\Debug\ColorCraft.Models.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Models\obj\Debug\ColorCraft.Models.dll
+C:\Users\Dani\Documents\GitHub\Web.Projects\WebServices\ColorCraft\ColorCraft.Models\obj\Debug\ColorCraft.Models.pdb
